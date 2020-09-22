@@ -1,7 +1,7 @@
 
 # A 2D JETPACK JOYRIDE inspired game
 
-![Image of Yaktocat](https://github.com/VisveshS/Jetpack-JoyRide/tree/master/JetpackJoyride/jj.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/Jetpack-JoyRide/master/JetpackJoyride/jj.png)
 
 **Execution**
 
