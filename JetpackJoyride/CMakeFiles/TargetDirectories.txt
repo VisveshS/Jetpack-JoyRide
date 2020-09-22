@@ -1,0 +1,3 @@
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/CMakeFiles/rebuild_cache.dir
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/CMakeFiles/graphics_asgn1.dir
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/CMakeFiles/edit_cache.dir

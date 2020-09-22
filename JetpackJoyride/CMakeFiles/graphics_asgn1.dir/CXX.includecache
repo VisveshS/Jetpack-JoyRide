@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/ball.h
+main.h
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/main.h
+
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/main.cpp
+main.h
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/main.h
+timer.h
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/timer.h
+ball.h
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/ball.h
+
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/main.h
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/visvesh/4thsem/graphics/20171133_In-Class Assignment 2/src/timer.h
+
