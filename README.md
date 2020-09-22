@@ -1,7 +1,8 @@
 
 # A 2D JETPACK JOYRIDE inspired game
 
-![Image of Yaktocat](https://github.com/VisveshS/Jetpack-JoyRide/tree/master/JetpackJoyride/jj.png)
+
+<img alt="WP Reliable Cookie Bar logo" src="https://github.com/VisveshS/Jetpack-JoyRide/tree/master/JetpackJoyride/jj.png?raw=true" height="100" width="100" align="right">
 
 **Execution**
 
